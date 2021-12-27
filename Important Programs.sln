@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegativeOnOneAndPositiveOnO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegativeOnOneAndPositiveOnOtherWithOrderMaintained", "NegativeOnOneAndPositiveOnOtherWithOrderMaintained\NegativeOnOneAndPositiveOnOtherWithOrderMaintained.csproj", "{C4CC7CA6-CBF1-44F8-B756-1DBFC870C4A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionOfSortedArrays", "UnionOfSortedArrays\UnionOfSortedArrays.csproj", "{09835FB0-FACA-49A4-9F59-4E404DB6A510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfSortedArrays", "IntersectionOfSortedArrays\IntersectionOfSortedArrays.csproj", "{F8128016-09A9-4B69-94E3-78B6579807DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingTwoSortedArrays", "MergingTwoSortedArrays\MergingTwoSortedArrays.csproj", "{11DF68D5-5EFA-4C3B-AF66-C6D0A3AF3130}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +51,18 @@ Global
 		{C4CC7CA6-CBF1-44F8-B756-1DBFC870C4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4CC7CA6-CBF1-44F8-B756-1DBFC870C4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4CC7CA6-CBF1-44F8-B756-1DBFC870C4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09835FB0-FACA-49A4-9F59-4E404DB6A510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09835FB0-FACA-49A4-9F59-4E404DB6A510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09835FB0-FACA-49A4-9F59-4E404DB6A510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09835FB0-FACA-49A4-9F59-4E404DB6A510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8128016-09A9-4B69-94E3-78B6579807DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8128016-09A9-4B69-94E3-78B6579807DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8128016-09A9-4B69-94E3-78B6579807DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8128016-09A9-4B69-94E3-78B6579807DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11DF68D5-5EFA-4C3B-AF66-C6D0A3AF3130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DF68D5-5EFA-4C3B-AF66-C6D0A3AF3130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DF68D5-5EFA-4C3B-AF66-C6D0A3AF3130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DF68D5-5EFA-4C3B-AF66-C6D0A3AF3130}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
