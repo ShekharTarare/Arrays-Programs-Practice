@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfSortedArrays"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingTwoSortedArrays", "MergingTwoSortedArrays\MergingTwoSortedArrays.csproj", "{11DF68D5-5EFA-4C3B-AF66-C6D0A3AF3130}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicallyRotateByOne", "CyclicallyRotateByOne\CyclicallyRotateByOne.csproj", "{E57DA075-8FB2-4751-ADB7-882219B6E862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KadanesAlgorithm", "KadanesAlgorithm\KadanesAlgorithm.csproj", "{21C312E0-F295-4C1E-8B38-E8502B3FB197}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{11DF68D5-5EFA-4C3B-AF66-C6D0A3AF3130}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11DF68D5-5EFA-4C3B-AF66-C6D0A3AF3130}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11DF68D5-5EFA-4C3B-AF66-C6D0A3AF3130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57DA075-8FB2-4751-ADB7-882219B6E862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57DA075-8FB2-4751-ADB7-882219B6E862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57DA075-8FB2-4751-ADB7-882219B6E862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57DA075-8FB2-4751-ADB7-882219B6E862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C312E0-F295-4C1E-8B38-E8502B3FB197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C312E0-F295-4C1E-8B38-E8502B3FB197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C312E0-F295-4C1E-8B38-E8502B3FB197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C312E0-F295-4C1E-8B38-E8502B3FB197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
